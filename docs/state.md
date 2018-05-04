@@ -99,6 +99,7 @@ AppStore
     }
   }
   clearBrowsingDataDefaults: {
+    adsSettings: boolean,
     allSiteCookies: boolean,
     autocompleteData: boolean,
     autofillData: boolean,
